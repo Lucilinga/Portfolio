@@ -105,7 +105,7 @@ function Hero() {
     <div className="relative overflow-hidden">
       <div className="flex items-center justify-center min-h-[50vh] sm:min-h-[60vh] lg:min-h-[70vh] px-4">
         <h1 
-          className="css-ew64yg font-['Instrument_Sans:Medium',sans-serif] font-medium leading-[0.9] text-black text-center text-[60px] sm:text-[120px] md:text-[180px] lg:text-[240px] xl:text-[280px] tracking-[-0.05em]" 
+          className="css-ew64yg font-['Instrument_Sans:Medium',sans-serif] font-medium leading-[0.9] text-blue-300 text-center text-[60px] sm:text-[120px] md:text-[180px] lg:text-[240px] xl:text-[280px] tracking-[-0.05em]" 
           style={{ fontVariationSettings: "'wdth' 100" }}
         >
           i'm lucila
